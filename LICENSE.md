@@ -44,4 +44,4 @@ Licenses:
     
     CVC3: docker/cvc3-2.2.tar.gz
     GMP (GNU Multiple Precision Arithmetic Library): docker/gmp-4.3.2.tar.gz
-    JDK 7u80: docker/jdk-7u80-linux-x64.tar.gz
+    JDK 7u80: docker/jdk-7u80-linux-x64.tar.gz_*
