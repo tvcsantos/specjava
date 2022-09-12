@@ -1,0 +1,10 @@
+@inproceedings{
+    santos2010lightweight,
+    author = { Tiago Santos },
+    title = { Lightweight Type-Like Hoare-Separation Specs for Java },
+    booktitle = { Proceedings of InForum 2010 },
+    publisher = { Universidade do Minho },
+    year = { 2010 },
+    month = { 09 },
+    pages = { 43-54 }
+}

@@ -1,0 +1,8 @@
+@mastersthesis{
+    santos2010MScThesis,
+    author = {Tiago Santos},
+    title = {Linguagem de Especificação Leve Hoare-Separação para Java},
+    school = {Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa},
+    year = {2010},
+    month = {07}
+}
