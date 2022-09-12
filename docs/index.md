@@ -2,7 +2,7 @@
 
 !!! warning "Warning"
 
-    This project is no longer maintained
+    This project was developed from 2009 to 2010 and is no longer maintained
 
 SpecJava is an extension to the Java compiler with support for lightweight
 static logical assertions.
