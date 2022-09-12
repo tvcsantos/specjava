@@ -1,6 +1,6 @@
 # SpecJava
 
-> ⚠️ This project is no longer maintained ⚠️
+> ⚠️ This project was developed from 2009 to 2010 and is no longer maintained ⚠️
 
 ## Overview
 
