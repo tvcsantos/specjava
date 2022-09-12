@@ -110,8 +110,7 @@ In Proceedings of [InForum 2010][inforum-2010] - September 2010.
 
 Tiago Santos. Linguagem de Especificação Leve Hoare-Separação para Java.<br>
 MSc Thesis - July 2010. (in PT) [[BibTex][ts-msc-thesis-bib]
-, [PDF][ts-msc-thesis-document], [Presentation][ts-msc-thesis-presentation]
-, [SpecJava Tool][prototype]]
+, [PDF][ts-msc-thesis-document], [Presentation][ts-msc-thesis-presentation]]
 
 ---
 
