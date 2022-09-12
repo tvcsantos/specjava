@@ -5,7 +5,7 @@ repo_name: tvcsantos/specjava
 repo_url: https://github.com/tvcsantos/specjava
 edit_uri: blob/master/docs/
 
-copyright: Copyright 2010 Tiago Santos
+copyright: Copyright 2009-2010 Tiago Santos
 
 theme:
   name: material
